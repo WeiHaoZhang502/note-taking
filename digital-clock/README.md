@@ -6,7 +6,7 @@
 
 ### 核心功能
 - ✅ **实时时钟** - 精确显示秒级时间更新
-- 🌍 **多时区支持** - 包含30+个全球主要城市和时区
+- 🌍 **多���区支持** - 包含30+个全球主要城市和时区
 - 📍 **灵活管理** - 可自由添加、删除时区
 - 🔍 **搜索功能** - 快速查找和过滤时区
 - 🎨 **美观界面** - 现代化设计和流畅动画
@@ -24,14 +24,14 @@
 
 ### 美洲
 - 🗽 New York (America/New_York)
-- 🏖️ Los Angeles (America/Los_Angeles)
-- 🏙️ Chicago (America/Chicago)
+- 🌴 Los Angeles (America/Los_Angeles)
+- 🏢 Chicago (America/Chicago)
 - ⛰️ Denver (America/Denver)
-- 🗻 Anchorage (America/Anchorage)
+- 🏔️ Anchorage (America/Anchorage)
 - 🌺 Honolulu (Pacific/Honolulu)
 - 🍁 Toronto (America/Toronto)
 - 🍁 Vancouver (America/Vancouver)
-- 🏛️ Mexico City (America/Mexico_City)
+- 🌮 Mexico City (America/Mexico_City)
 - 🇧🇷 São Paulo (America/Sao_Paulo)
 
 ### 欧洲
@@ -90,13 +90,13 @@ http://localhost:8000/digital-clock
 2. **移除时区** - 点击时钟卡片右上角的 "×" 按钮
 3. **搜索时区** - 使用顶部搜索框快速过滤显示的时区
 4. **切换时间格式** - 点击 "12/24 小时" 按钮切换显示格式
-5. **重置为默认** - 点击 "重置" 按钮恢复默认的4个时区
+5. **重置为默认** - 点击 "重置" 按钮恢复默认4个时区
 
 ### 功能说明
 - **时钟卡片显示**：城市名、精确时间、日期、UTC偏移、地区信息
 - **实时更新**：每秒自动更新所有时区的时间
 - **本地存储**：您选择的时区组合会自动保存在浏览器本地存储中
-- **响应式设计**：在桌面、平板和手机上都能正常显示
+- **响应式网格**：在不同设备上自动调整布局
 
 ## 🎨 技术实现
 
@@ -134,7 +134,7 @@ digital-clock/
 - 精确到秒的实时时间
 - 支持12/24小时制切换
 - 本地化日期显示
-- UTC偏移显示
+- UTC偏移量显示
 
 ### 3. 搜索和过滤
 - 支持按城市名称搜索
@@ -144,9 +144,9 @@ digital-clock/
 
 ### 4. 用户界面
 - 现代化渐变背景
-- 流畅的动画效果
+- 流畅的过渡动画
 - 响应式网格布局
-- 模态对话框
+- 模态对话框选择器
 
 ## 🔧 自定义选项
 
@@ -178,9 +178,9 @@ this.clocks = [
 - ✅ 移动浏览器
 
 ## 🎯 应用场景
-- 📊 全球商务沟通中的时区查询
-- 🌍 国际旅行时间对照
-- 💼 远程团队协作的时间管理
+- 💼 全球商务沟通中的时区查询
+- ✈️ 国际旅行时间对照
+- 👥 远程团队协作的时间管理
 - 📺 国际直播活动的时间提醒
 - 🎓 学习不同时区的概念
 
